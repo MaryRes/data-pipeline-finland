@@ -13,8 +13,8 @@ A collection of Python scripts for collecting transportation and event data in t
 
 ## Project Structure
 
+```markdown
 data-pipeline-finland/
-
 ├── .env.example # Environment variables template
 ├── requirements.txt # Python dependencies
 ├── api_explorer.py # Matkahuolto API exploration script
@@ -24,7 +24,7 @@ data-pipeline-finland/
 ├── teatteri_scraper.py # Lahti City Theatre performances
 ├── event_end_time_calculator.py # Calculate event end times
 └── matkahuolto_test.py # API test / valid values discovery
-
+```
 
 ## Setup
 
