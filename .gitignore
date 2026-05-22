@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Data files (CSV)
+*.csv
+*.CSV
+
+# Data files and folders
+data/
+*.csv
+*.CSV
+
+# Secrets
+.env
+*.env
+
+# Shared / cache files from various libraries
+share/
+xyzservices/
+providers.json
+*.json
